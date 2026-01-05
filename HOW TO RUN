@@ -1,0 +1,9 @@
+docker-compose up --build
+
+## Backend
+
+Backend → http://localhost:8000/docs
+
+##Frontend
+
+Frontend → http://localhost:5173
